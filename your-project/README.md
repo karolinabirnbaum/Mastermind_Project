@@ -1,9 +1,10 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Mastermind Game
+Karolina Birnbaum
+Berkay Ersoy
 
-*[Your Cohort, Campus & Date]*
+DAFT1601, Ironhack Paris, 20/01/2023
 
 ## Content
 - [Project Description](#project-description)
